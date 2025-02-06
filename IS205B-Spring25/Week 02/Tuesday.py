@@ -59,3 +59,4 @@ total = 50
 mean = total/n
 print("my average is")
 print(mean)
+
