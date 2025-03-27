@@ -1,0 +1,4 @@
+0 fish(s)
+1 fish(s)
+2 fish(s)
+3 fish(s)

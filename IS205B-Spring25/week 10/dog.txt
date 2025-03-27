@@ -1,0 +1,4 @@
+0 dog(s)
+1 dog(s)
+2 dog(s)
+3 dog(s)
