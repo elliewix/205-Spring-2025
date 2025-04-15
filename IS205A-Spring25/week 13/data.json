@@ -1,0 +1,36 @@
+{
+    "original": "here are some happy humans maybe who knows",
+    "words": [
+        "here",
+        "are",
+        "some",
+        "happy",
+        "humans",
+        "maybe",
+        "who",
+        "knows"
+    ],
+    "count": 8,
+    "payload": {
+        "h": [
+            "here",
+            "happy",
+            "humans"
+        ],
+        "a": [
+            "are"
+        ],
+        "s": [
+            "some"
+        ],
+        "m": [
+            "maybe"
+        ],
+        "w": [
+            "who"
+        ],
+        "k": [
+            "knows"
+        ]
+    }
+}
