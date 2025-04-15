@@ -1,0 +1,36 @@
+{
+    "original": "hello happy humans okay maybe not who knows",
+    "words": [
+        "hello",
+        "happy",
+        "humans",
+        "okay",
+        "maybe",
+        "not",
+        "who",
+        "knows"
+    ],
+    "count": 8,
+    "payload": {
+        "h": [
+            "hello",
+            "happy",
+            "humans"
+        ],
+        "o": [
+            "okay"
+        ],
+        "m": [
+            "maybe"
+        ],
+        "n": [
+            "not"
+        ],
+        "w": [
+            "who"
+        ],
+        "k": [
+            "knows"
+        ]
+    }
+}
