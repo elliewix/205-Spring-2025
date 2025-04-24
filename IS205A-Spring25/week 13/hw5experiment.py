@@ -12,3 +12,10 @@ data['cat']['count'] += 1
 print(data['cat'])
 print()# print the lines for London
 print()# print the number of terms
+
+terms = ['cat', 'dog']
+d = {}
+for t in terms:
+        d[t] = {'count': 0, 'lines': []}
+
+print(d)

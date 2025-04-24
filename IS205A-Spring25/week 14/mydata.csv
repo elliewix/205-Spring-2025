@@ -1,0 +1,21 @@
+choice 1,choice 2,choice 3
+grass,apple,sidewalk
+pear,apple,apple
+sidewalk,sidewalk,sidewalk
+sidewalk,bush,bush
+grass,apple,pear
+grass,grass,grass
+bush,apple,apple
+pear,tree,grass
+sidewalk,pear,bush
+tree,grass,pear
+pear,bush,grass
+bush,tree,grass
+pear,pear,tree
+tree,tree,tree
+tree,tree,tree
+grass,sidewalk,bush
+grass,tree,bush
+grass,tree,tree
+pear,grass,apple
+apple,bush,sidewalk
