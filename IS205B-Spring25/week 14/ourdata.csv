@@ -1,0 +1,21 @@
+choice 1,choice 2,choice 3
+tree,cat,grass
+grass,tree,sidewalk
+tree,tree,grass
+grass,grass,tree
+cat,cat,grass
+sidewalk,grass,tree
+tree,sidewalk,banana
+banana,grass,banana
+cat,banana,sidewalk
+grass,tree,cat
+grass,grass,banana
+tree,sidewalk,grass
+grass,cat,cat
+tree,tree,sidewalk
+banana,cat,banana
+sidewalk,sidewalk,sidewalk
+sidewalk,sidewalk,cat
+banana,tree,banana
+cat,banana,sidewalk
+cat,sidewalk,banana

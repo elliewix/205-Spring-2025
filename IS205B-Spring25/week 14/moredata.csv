@@ -1,0 +1,7 @@
+participant id,city,choice,number
+a,"Banana, IL",tree,8
+b,"Banana, IL",sidewalk,5
+c,"Sidewalk, IL",banana,3
+d,"Banana, IL",tree,3
+e,"Sidewalk, IL",cat,3
+f,"Sidewalk, IL",sidewalk,3
